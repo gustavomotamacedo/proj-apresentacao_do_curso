@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "Room123",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
@@ -25,7 +25,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 640,
+    "Height": 480,
     "inheritRoomSettings": false,
     "persistent": false,
     "Width": 640,
