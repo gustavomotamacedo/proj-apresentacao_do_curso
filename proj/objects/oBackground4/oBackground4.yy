@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oBlocoSol",
+  "name": "oBackground4",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "sBlocoFu",
-    "path": "sprites/sBlocoFu/sBlocoFu.yy",
+    "name": "sBackground4",
+    "path": "sprites/sBackground4/sBackground4.yy",
   },
   "spriteMaskId": null,
   "visible": true,

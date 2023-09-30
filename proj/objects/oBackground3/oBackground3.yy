@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oBlocoSol",
+  "name": "oBackground3",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "sBlocoFu",
-    "path": "sprites/sBlocoFu/sBlocoFu.yy",
+    "name": "sBackground3",
+    "path": "sprites/sBackground3/sBackground3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
