@@ -16,5 +16,7 @@
     {"name":"Extensões","order":14,"path":"folders/Extensões.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_jogador","order":16,"path":"sprites/spr_jogador/spr_jogador.yy",},
+  ],
 }

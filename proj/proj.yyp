@@ -34,6 +34,8 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
+    {"id":{"name":"spr_jogador","path":"sprites/spr_jogador/spr_jogador.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
