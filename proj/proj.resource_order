@@ -18,7 +18,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_arma","order":1,"path":"objects/obj_arma/obj_arma.yy",},
-    {"name":"spr_arma","order":17,"path":"sprites/spr_arma/spr_arma.yy",},
-    {"name":"spr_jogador","order":16,"path":"sprites/spr_jogador/spr_jogador.yy",},
+    {"name":"obj_disparo","order":2,"path":"objects/obj_disparo/obj_disparo.yy",},
+    {"name":"spr_arma","order":1,"path":"sprites/spr_arma/spr_arma.yy",},
+    {"name":"spr_jogador","order":2,"path":"sprites/spr_jogador/spr_jogador.yy",},
   ],
 }
