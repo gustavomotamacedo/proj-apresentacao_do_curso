@@ -17,6 +17,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< HEAD
     {"name":"obj_arma","order":1,"path":"objects/obj_arma/obj_arma.yy",},
     {"name":"spr_barreira","order":16,"path":"sprites/spr_barreira/spr_barreira.yy",},
     {"name":"obj_inimigo","order":3,"path":"objects/obj_inimigo/obj_inimigo.yy",},
@@ -27,5 +28,18 @@
     {"name":"tile_test","order":1,"path":"rooms/tile_test/tile_test.yy",},
     {"name":"spr_inimigo","order":3,"path":"sprites/spr_inimigo/spr_inimigo.yy",},
     {"name":"obj_barreira","order":4,"path":"objects/obj_barreira/obj_barreira.yy",},
+=======
+    {"name":"oMenuS","order":1,"path":"objects/oMenuS/oMenuS.yy",},
+    {"name":"Room4","order":4,"path":"rooms/Room4/Room4.yy",},
+    {"name":"Room3","order":3,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Room46","order":5,"path":"rooms/Room46/Room46.yy",},
+    {"name":"oBlocoSol","order":6,"path":"objects/oBlocoSol/oBlocoSol.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
+    {"name":"sExit","order":1,"path":"sprites/sExit/sExit.yy",},
+    {"name":"oMenuE","order":2,"path":"objects/oMenuE/oMenuE.yy",},
+    {"name":"sFundoBa","order":12,"path":"sprites/sFundoBa/sFundoBa.yy",},
+    {"name":"sBlocoFu","order":11,"path":"sprites/sBlocoFu/sBlocoFu.yy",},
+>>>>>>> parent of df1c4bb (Terminei as Rooms)
   ],
 }
