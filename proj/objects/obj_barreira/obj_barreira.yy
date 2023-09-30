@@ -30,5 +30,5 @@
     "path": "sprites/spr_barreira/spr_barreira.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

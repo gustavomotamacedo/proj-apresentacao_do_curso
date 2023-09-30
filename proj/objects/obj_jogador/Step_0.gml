@@ -1,7 +1,7 @@
-if vida <= 0 {
-	show_message("Você perdeu!")
+if obj_jogador.contagem == 0 {
+	room_goto_next()
 }
 
-if contagem == 0 {
-	show_message("Você ganhou!!")
+if vida <= 0 {
+	room_goto(0)
 }
