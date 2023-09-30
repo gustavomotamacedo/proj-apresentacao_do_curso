@@ -35,6 +35,8 @@
   },
   "resources": [
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
+    {"id":{"name":"obj_arma","path":"objects/obj_arma/obj_arma.yy",},},
+    {"id":{"name":"spr_arma","path":"sprites/spr_arma/spr_arma.yy",},},
     {"id":{"name":"spr_jogador","path":"sprites/spr_jogador/spr_jogador.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

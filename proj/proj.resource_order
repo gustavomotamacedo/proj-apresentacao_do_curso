@@ -17,6 +17,8 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_arma","order":1,"path":"objects/obj_arma/obj_arma.yy",},
+    {"name":"spr_arma","order":17,"path":"sprites/spr_arma/spr_arma.yy",},
     {"name":"spr_jogador","order":16,"path":"sprites/spr_jogador/spr_jogador.yy",},
   ],
 }
