@@ -1,11 +1,12 @@
 if obj_jogador.x > x {
-	x += 2
+	x += dx * spd
 }else if obj_jogador.x < x {
-	x -= 2
+	x -= dx * spd
 }
 
 if obj_jogador.y > y {
-	y += 1
+	y += dy * spd
 }else if obj_jogador.y < y  {
-	y -= 1
+	y -= dy * spd
 }
+
