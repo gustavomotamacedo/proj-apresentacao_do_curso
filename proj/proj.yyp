@@ -23,18 +23,15 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
-    {"id":{"name":"Room1234","path":"rooms/Room1234/Room1234.yy",},},
-    {"id":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
-    {"id":{"name":"Room12345","path":"rooms/Room12345/Room12345.yy",},},
-    {"id":{"name":"Room123","path":"rooms/Room123/Room123.yy",},},
+    {"id":{"name":"oBlocoSol","path":"objects/oBlocoSol/oBlocoSol.yy",},},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"id":{"name":"sFundoBa","path":"sprites/sFundoBa/sFundoBa.yy",},},
+    {"id":{"name":"sBlocoFu","path":"sprites/sBlocoFu/sBlocoFu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
-    {"roomId":{"name":"Room123","path":"rooms/Room123/Room123.yy",},},
-    {"roomId":{"name":"Room1234","path":"rooms/Room1234/Room1234.yy",},},
-    {"roomId":{"name":"Room12345","path":"rooms/Room12345/Room12345.yy",},},
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

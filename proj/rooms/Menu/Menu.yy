@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room12345",
+  "name": "Menu",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
@@ -25,10 +25,10 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 480,
+    "Height": 768,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 640,
+    "Width": 1366,
   },
   "sequenceId": null,
   "views": [
