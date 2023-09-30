@@ -1,33 +1,25 @@
 if keyboard_check(ord("D")){
-	x = obj_jogador.x + 8
-	image_xscale = 1
+	x = obj_jogador.x + 4
+	image_yscale = 1 
 	image_angle = 0
 } else if keyboard_check(ord("A")) {
-	x = obj_jogador.x - 8	
-	image_xscale = -1
-	image_angle = 0
+	x = obj_jogador.x - 4	
+	image_yscale = -1
+	image_angle = 180
 }
 
 y = obj_jogador.y - 2
 
 if keyboard_check(ord("W")) {
-	if image_xscale == 1 {
-		image_angle = 90
-	} else {
-		image_angle = 270
-	}
+	image_angle = 90
 } else if keyboard_check(ord("S")) {
-	if image_xscale == 1 {
-		image_angle = 270
-	} else {
-		image_angle = 90
-	}
+	image_angle = 270
 }
 
-if keyboard_check(vk_space) {
-	with(instance_create_layer(x, y, "Disparos", obj_disparo)){
+if keyboard_check_pressed(vk_space) {
+	with(instance_create_layer(x, obj_jogador.y, "Disparos", obj_disparo)){
 	speed = 8
-	direction = -90 + 90 * other.image_xscale
+	direction = obj_arma.image_angle * obj_arma.image_xscale
 	image_angle = direction
 	}
 }
